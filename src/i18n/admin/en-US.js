@@ -3,6 +3,7 @@ export const m = {
   Dashboard: 'Dashboard',
   General: 'General',
   User: 'User',
+  BaseFile: 'Base sturcture',
   Announcement: 'Announcement',
   System_Config: 'System Config',
   Judge_Server: 'Judge Server',

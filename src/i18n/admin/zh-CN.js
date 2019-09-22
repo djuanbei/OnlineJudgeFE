@@ -3,6 +3,7 @@ export const m = {
   Dashboard: '仪表盘',
   General: '常用设置',
   User: '用户管理',
+  BaseFile: '基础数据结构',
   Announcement: '公告管理',
   System_Config: '系统配置',
   Judge_Server: '判题服务器',
